@@ -10,8 +10,9 @@ My name is Francisco a freelance software developer and videogame developer pass
 - 📫 How to reach me: frankgamedevportfolio@gmail.com
 - [My Portfolio Site](https://isco16.github.io/FrancIscoDev16/)
 
-[Proyecto VrTraining Backend con Express](https://github.com/Isco16/VrTraining_NodeJs)
-[Proyecto Prestanos_Lab Full Stack con Django](https://github.com/Isco16/Prestamos_Lab)
+[Proyecto VrTraining Backend con Express](https://github.com/Isco16/VrTraining_NodeJs).
+
+[Proyecto Prestanos_Lab Full Stack con Django](https://github.com/Isco16/Prestamos_Lab).
 
 # TECHNICAL SKILLS:
 • Programming Languages: C#, JavaScript, Java, SQL, PLSQL, Python.
