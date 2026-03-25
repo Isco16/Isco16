@@ -1,12 +1,17 @@
 ## Hello World 👋. Isco16 Here...
 
-My name is Francisco a freelance videogame developer and software engineer passionate about creating engaging and immersive experiences by developing innovative applications tailored to a diverse audience.
+My name is Francisco a freelance software developer and videogame developer passionate about creating engaging and immersive experiences by developing innovative applications tailored to diverse porpuses.
 
-- 🌱 I’m currently learning backend technologies such as: Node.js, Express, Flask and Django.
+- 🐍: I’m currently learning Full Stack development with Python and Django framework.
+- 💻: I have knowledge in backend technologies such as: Node.js, Express, Flask and Django.
 
 - 👯 I’m looking to collaborate on educational and training projects that make use of emerging technologies such as: artificial intelligence, AR, VR and mixed reality.
 
 - 📫 How to reach me: frankgamedevportfolio@gmail.com
+- [My Portfolio Site](https://isco16.github.io/FrancIscoDev16/)
+
+[Proyecto VrTraining Backend con Express](https://github.com/Isco16/VrTraining_NodeJs)
+[Proyecto Prestanos_Lab Full Stack con Django](https://github.com/Isco16/Prestamos_Lab)
 
 # TECHNICAL SKILLS:
 • Programming Languages: C#, JavaScript, Java, SQL, PLSQL, Python.
